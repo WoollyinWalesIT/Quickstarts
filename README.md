@@ -17,3 +17,6 @@ __You *will need* a valid Jomres license key__ to use a Quickstart, you can get 
 Installation instructions and a video can be found here in the manual:
 
 https://www.jomres.net/manual/installation-and-upgrading-2/4-jomres-quickstart
+
+
+IMPORTANT : After installation make sure you visit Akeeba Backup and change the file and database exclusion settings. A lot of files and database table contents are excluded when making a Quickstart, that you will want to include in your production sites. 
