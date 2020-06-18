@@ -11,9 +11,6 @@ These Quickstarts are designed to get you up and running with a complete Jomres 
 * http://wordpress-hotel.jomres.net/
 * http://wordpress-portal.jomres.net/
 
-__You *will need* a valid Jomres license key__ to use a Quickstart, you can get a trial license key [from this page](https://www.jomres.net/pricing) 
-
-
 Installation instructions and a video can be found here in the manual:
 
 https://www.jomres.net/manual/installation-and-upgrading-2/4-jomres-quickstart
